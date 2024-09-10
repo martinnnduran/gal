@@ -1,0 +1,266 @@
+html, body {
+     height: 100%;
+     margin: 0;
+     overflow: hidden;
+ }
+ body {
+     background-image: url('https://i.pinimg.com/originals/28/68/78/286878f2bd311db878a2f494a961e858.jpg');
+     background-size: cover;
+     background-position: center;
+     background-repeat: no-repeat;
+     height: 100%;
+ }
+ h1{
+     font: bold;
+     align-self: flex-end;}
+
+     .bebida{
+     height: 75px;
+     width: 75px;
+     
+ }
+ #coral{
+     position: absolute;
+     margin-top: 380px;
+     margin-left: 0px;
+ }
+ .camiseta{
+
+ height: 75px;
+ width: 75px;
+ }
+ #fondo{
+     display: flex;
+     align-items: center;
+     margin-top: 380px;
+     
+ }
+ #coralDos{
+     position: absolute;
+     margin-top: 380px;
+     margin-left: 250px;
+ }
+ #coralTres{
+     position: absolute;
+     margin-top: 380px;
+     margin-left: 500px;
+ }
+ #coralCuatro{
+     position: absolute;
+     margin-top: 380px;
+     margin-left: 750px;
+ }
+ #coralCinco{
+     position: absolute;
+     margin-top: 380px;
+     margin-left: 1000px;
+ }
+
+ .alfajor, .mamaLucheti{
+     height: 50px;
+     width: 50px;}
+
+ #bebidaUno{
+ position: absolute;
+ margin-left: 700px;
+ margin-top: 260px;
+ rotate: 15;    }
+ 
+ #bebidaDos{
+ position: absolute;
+ margin-left: 400px;
+ margin-top: 225px;
+ }
+ #cositas{
+     margin-top: 50px;
+ }
+ #bebidaCuatro{
+ position: absolute;
+ margin-left: 1050px;
+ margin-top: 250px;   
+ }
+ #parilla{
+ width: 50px;
+ height: 50px;
+ position: absolute;
+ margin-left: 650px;
+ margin-top: 100px;    
+ }
+ #bebidaTres{
+ position: absolute;
+ margin-left: 900px;
+ margin-top: 250px;
+ }
+ #empanadaCinco{
+ position: absolute;
+ margin-left: 800px;
+ margin-top: 100px;  
+ }
+ #empanadasUno{
+ position: absolute;
+ margin-left: 550px;
+ margin-top: 200px;
+ }
+
+ #bebidaCero{
+ position: absolute;
+ margin-left: 250px;
+ margin-top: 200px;
+ }
+ #empanadasDos{
+ position: absolute;
+ margin-left: 650px;
+ margin-top: 200px;
+ }
+ #alfajorCero{
+ position: absolute;
+ margin-left: 150px;
+ margin-top: 270px;
+ }
+ #alfajorFinal{
+ position: absolute;
+ margin-left: 1200px;
+ margin-top: 300px;  
+ }
+ #pecesDo{
+ position: absolute;
+ margin-left: 1200px;
+ margin-top: 200px; 
+ width: 50px;
+ height: 50px; 
+ }
+ #empanadasTres{
+ position: absolute;
+ margin-left: 100px;
+ margin-top: 230px;
+ }
+
+ #alfajorUno{
+ position: absolute;
+ margin-left: 15px;
+ margin-top: 180px;
+ }
+ #alfajorSeis{
+ position: absolute;
+ margin-left: 150px;
+ margin-top: 100px;  
+ }
+ #alfajorSiete{
+ position: absolute;
+ margin-left: 150px;
+ margin-top: 100px;
+ }
+ #alfajorOcho{
+ position: absolute;
+ margin-left: 950px;
+ margin-top: 150px;
+ }
+ #empanadaSeis{
+ position: absolute;
+ margin-left: 350px;
+ margin-top: 140px;  
+ }
+ #pecesUno{
+ position: absolute;
+ margin-top: 100px;
+ margin-left: 450px;
+ }
+ #messi{
+ position: absolute;
+ margin-left: 15px;
+ margin-top: 280px;
+ }
+ #diez{
+ position: absolute;
+ margin-left: 40px;
+ margin-top: 310px;
+ }
+ #dibu{
+ position: absolute;
+ margin-left: 1075px;
+ margin-top: 90px;   
+ }
+ 
+ #garnacho{
+ position: absolute;
+ margin-top: 100px;
+ margin-left: 450px;
+ }
+ #veintiTres{
+ position: absolute;
+ margin-left: 1100px;
+ margin-top: 110px;   
+ }
+ #empanadaSiete {
+ position: absolute;
+ margin-left: 260px;
+ margin-top:365px;
+}
+ #pecesUno{
+ height: 75px;
+ width: 75px;
+ position: absolute;
+ margin-left: 230px;
+ }
+#alfajorNueve{
+ position: absolute;
+ margin-left: 550px;
+ margin-top: 300px;
+}
+#parillaUaUno{
+ width: 50px;
+ height: 50px;
+ position: absolute;
+ margin-left: 400px;
+ margin-top: 300px; 
+}
+#diesiciete{
+ position: absolute;
+ margin-top: 120px;
+ margin-left: 475px;
+}
+#loCelso{
+ position: absolute;
+ margin-top: 70px;
+ margin-left: 50px;    
+}
+#demo{
+    position: absolute;
+    margin-left: 750px;
+    margin-top: 230px;
+    font-family: cursive;
+}
+#coralCero{
+ position: absolute;
+ margin-left: 0px;
+ left: 0;
+ margin-top: 180px;
+}
+#diesiseis{
+ position: absolute;
+ margin-top: 95px;
+ margin-left: 75px;     
+}
+#empanadaOcho{
+ position: absolute;
+ margin-top: 90px;
+ margin-left: 1250px;     
+}
+#pelotaCero 
+{
+ width: 25px;
+ height: 25px;
+ position: absolute;
+ margin-left: 400px;
+ }
+ #hijoLucheti{
+     height: 5px;
+     width: 5px;
+ }
+#btnPez{
+position: absolute;
+margin-left: 250px;
+margin-top: 300px;
+background-color: cornflowerblue;
+font-family:cursive;
+}
